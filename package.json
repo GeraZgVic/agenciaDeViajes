@@ -1,0 +1,25 @@
+{
+  "name": "agenciaviajes",
+  "version": "1.0.0",
+  "description": "Proyecto NodeJS,Sequilize/Pug, Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraZgVic/agenciaDeViajes.git"
+  },
+  "author": "Victor Gamboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeraZgVic/agenciaDeViajes/issues"
+  },
+  "homepage": "https://github.com/GeraZgVic/agenciaDeViajes#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
